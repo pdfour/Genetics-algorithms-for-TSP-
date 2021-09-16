@@ -15,9 +15,9 @@ Le langage de programmation employé est Python. Ici la fonction d'adaptation re
 
 
 
-![Uploading Figure 2021-09-16 151511.png…]()
+![Figure 2021-09-16 151511](https://user-images.githubusercontent.com/90830443/133620341-04333adb-89dd-41cf-95da-7f7faade7496.png)
 ![Figure 2021-09-16 151500](https://user-images.githubusercontent.com/90830443/133619609-52b56e0d-75dc-4e1a-9c94-305c2f56d6f0.png)
 ![Figure 2021-09-16 151505](https://user-images.githubusercontent.com/90830443/133619621-f64d31c6-c2a7-4f30-8ec6-0603adfa189a.png)
 ![Figure 2021-09-16 151523](https://user-images.githubusercontent.com/90830443/133619653-a59dca6f-e7b3-4e56-b459-a8cbe89daf56.png)
-![Untitled](https://user-images.githubusercontent.com/90830443/133619734-b5070e66-8994-45ee-a1b6-7d656d51d5e6.png)
+![Untitled](https://user-images.githubusercontent.com/90830443/133620770-a15a6265-92ba-42bc-997a-ad392010e300.png)
 
