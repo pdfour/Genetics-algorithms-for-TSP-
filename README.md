@@ -12,3 +12,12 @@ Les algorithmes génétiques, initiés par John Holland en 1970, permettent de t
 Ils imitent ainsi au sein d’un programme les mécanismes d’évolution dans la nature : croisement, mutation, sélection. En effet, dans un algorithme génétique, on part d’une population de solutions potentielles au problème, initialement choisies aléatoirement. Les solutions sont ensuite évaluées grâce à la « fonction d’adaptation » ou fitness qui leurs assigne une valeur, afin de déterminer leur capacité de survie et de désigner celles qui transmettront leurs gènes à la génération suivante. Les solutions changent donc constamment, les plus adaptées survivent et se reproduisent, les autres disparaissent. On recommence ce cycle jusqu’à obtenir une solution satisfaisante au problème.
 
 Le langage de programmation employé est Python. Ici la fonction d'adaptation représente la distance totale parcourue par le voyageur. Les solutions, ou individus, sont représentés en tant que liste des villes par lesquelles passent le voyageur. La population est alors une liste de liste (ensemble d’individus). Après sélection, les individus sont croisés de manière à former un individu fils, qui peut subir des mutations et est ensuite réintroduit au sein de la population.  Au cours des générations créées, de nouveaux individus apparaissent et remplacent les moins bons individus. Ainsi la qualité des individus s’améliore (la fonction d’adaptation est minimisée) et des chemins de plus en plus courts sont déterminés. La force des algorithmes génétiques est qu’ils font appel au hasard :  tous les individus peuvent être modifiés au cours du temps et être sélectionnés. 
+
+
+
+![Uploading Figure 2021-09-16 151511.png…]()
+![Figure 2021-09-16 151500](https://user-images.githubusercontent.com/90830443/133619609-52b56e0d-75dc-4e1a-9c94-305c2f56d6f0.png)
+![Figure 2021-09-16 151505](https://user-images.githubusercontent.com/90830443/133619621-f64d31c6-c2a7-4f30-8ec6-0603adfa189a.png)
+![Figure 2021-09-16 151523](https://user-images.githubusercontent.com/90830443/133619653-a59dca6f-e7b3-4e56-b459-a8cbe89daf56.png)
+![Untitled](https://user-images.githubusercontent.com/90830443/133619734-b5070e66-8994-45ee-a1b6-7d656d51d5e6.png)
+
