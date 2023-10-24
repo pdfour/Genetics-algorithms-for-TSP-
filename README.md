@@ -1,4 +1,6 @@
 # Genetics-algorithms-for-TSP-
+# Description du Problème
+
 We solve the Traveling Salesman Problem using Genetics algorithms.
 
 
@@ -13,7 +15,7 @@ Ils imitent ainsi au sein d’un programme les mécanismes d’évolution dans l
 
 Le langage de programmation employé est Python. Ici la fonction d'adaptation représente la distance totale parcourue par le voyageur. Les solutions, ou individus, sont représentés en tant que liste des villes par lesquelles passent le voyageur. La population est alors une liste de liste (ensemble d’individus). Après sélection, les individus sont croisés de manière à former un individu fils, qui peut subir des mutations et est ensuite réintroduit au sein de la population.  Au cours des générations créées, de nouveaux individus apparaissent et remplacent les moins bons individus. Ainsi la qualité des individus s’améliore (la fonction d’adaptation est minimisée) et des chemins de plus en plus courts sont déterminés. La force des algorithmes génétiques est qu’ils font appel au hasard :  tous les individus peuvent être modifiés au cours du temps et être sélectionnés. 
 
-
+# Résultats
 
 ![Figure 2021-09-16 151511](https://user-images.githubusercontent.com/90830443/133620341-04333adb-89dd-41cf-95da-7f7faade7496.png)
 ![Figure 2021-09-16 151500](https://user-images.githubusercontent.com/90830443/133619609-52b56e0d-75dc-4e1a-9c94-305c2f56d6f0.png)
@@ -21,3 +23,7 @@ Le langage de programmation employé est Python. Ici la fonction d'adaptation re
 ![Figure 2021-09-16 151523](https://user-images.githubusercontent.com/90830443/133619653-a59dca6f-e7b3-4e56-b459-a8cbe89daf56.png)
 ![Untitled](https://user-images.githubusercontent.com/90830443/133620770-a15a6265-92ba-42bc-997a-ad392010e300.png)
 
+# Utilisation
+
+```bash
+python.exe algorithme_genetiques.py
